@@ -1,0 +1,5 @@
+/**************Custom edit profile page*******************/
+@media screen and (max-width: 768px){
+ .services .icon2{text-align:center !important;}
+ .magento-icon{width:2em !important;}
+}
