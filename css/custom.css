@@ -1,5 +1,7 @@
 /**************Custom edit profile page*******************/
+ .services .icon2{text-align:center;}
+ .magento-icon{width:2em;}
+ .about-desc h1{text-align:center;letter-spacing:1px;}
 @media screen and (max-width: 768px){
- .services .icon2{text-align:center !important;}
- .magento-icon{width:2em !important;}
+ .about-desc h1{font-size:21px;}
 }
