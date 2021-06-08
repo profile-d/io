@@ -2,6 +2,8 @@
  .services .icon2{text-align:center;}
  .magento-icon{width:2em;}
  .about-desc h1{text-align:center;letter-spacing:1px;}
+ .services h3{text-align: center;}
+ .progress-wrap img{max-width:100%;}
 @media screen and (max-width: 768px){
  .about-desc h1{font-size:21px;}
 }
